@@ -1,2 +1,2 @@
 m.m
-mips x86 aarccccc    h
+mips x86 arc
