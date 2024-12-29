@@ -1,1 +1,1 @@
-local.com.sout
+system.out.println("de")
