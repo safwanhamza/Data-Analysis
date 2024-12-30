@@ -1,1 +1,1 @@
-conf.cpp
+conf
